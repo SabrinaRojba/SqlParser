@@ -1,0 +1,1 @@
+This is an SQL Parser implementation in Java. Currently only parses Select statements of a specific structure. 
